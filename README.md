@@ -21,5 +21,5 @@ g Mammal Research Institute, University of Pretoria, South Africa
 ** CMD and MBM are co-senior authors.
 
 
-All analyses were conducted in R - see project file for versions and packages used. 
+All analyses were conducted in R - see renv.lock file for versions and packages used. 
 All graphs in the manuscript were produced in R using ggplot2.
